@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+head{
+    padding: 0px;
+    margin: 0px;
+}
+.head{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(248, 7, 7);
+    margin-top:0px;
+    text-align: center;
+}
+h{
+    background-color: rgba(83, 237, 219, 0.443);
+    color: whitesmoke;
+    width: 40px;
+    /* float: inline-start; */
+    border-radius: 25px;
+    padding: 5px;
+    margin: 29px;
+    margin-top: 40px;
+    font-size: 40px;
+
+    
+}
+.login{
+    float: right;
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.create{
+    float: right;
+    margin-right:10px ;
+}
+.search{
+    text-align: center;
+    margin: 5px;
+}
+.full_container{
+    background-color: rgb(252, 252, 252);
+    width: 100%;
+    height: 800px;
+    margin-top: 10px;
+}
+.fst_cointainer{
+    background-color: white;
+    width: 25%;
+    height: 500px;
+    float: left;
+    border: 15px;
+    border-color: rgb(242, 6, 6);
+}
+.sec_cointainer{
+    background-color: white;
+    width: 75%;
+    /* height: 700px; */
+    float:left;
+}
+.imgdetail{
+    background-color: black;
+    color: white;
+    border-color: azure;
+    font-size: 20px;
+}
+button{
+    border-color: white;
+    padding: 0px;
+    margin-left: 20px;
+    float: inline-end;
+}
+footer{
+    height: 100p;
+    width: px;
+}
+.footernav{
+    text-align: center;
+}
+.footerby{
+    text-align: right;   
+}
+q10{
+    padding: 5px;
+    margin: 0px;
+    font-size: 19px;
+}
+h3{
+    text-align: center;
+}
